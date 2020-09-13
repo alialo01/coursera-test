@@ -196,3 +196,7 @@ p {
        width: 100%;
      }    
 }
+
+.col-sm-12{
+  padding: 5px;
+} 
